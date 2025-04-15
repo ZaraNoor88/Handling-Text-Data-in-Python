@@ -1,7 +1,7 @@
 # Handling-Text-Data-in-Python
 Explore how Python built-in function help in text preprocessing.
 Here is the list of functions used in the notebook.
-**len():** This function return the total number of characters in the item.
+- **len():** This function return the total number of characters in the item.
 **.split(' '):** This split the text using whitespace. It is used for tokenization of textual data into words.
 **.istitle():** This method returns **True** if the string is a titlecased string, meaning that the first letter of each word is uppercase, and all other letters within the word are lowercase. 
 **.islower():** This method returns **True** if all cased characters in the string are lowercase. If there are no cased characters, it returns **False**. 
